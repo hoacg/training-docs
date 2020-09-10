@@ -2,7 +2,7 @@
 
 [Cấu hình Unicode trong ứng dụng Spring MVC](Training%20d8977d88e56d45e0ac08ce7f089def53/C%20u%20h%20nh%20Unicode%20trong%20ng%20d%20ng%20Spring%20MVC%2013cb0a3a99474b03a3620b117de1b430.md)
 
-[Scrum](Training%20d8977d88e56d45e0ac08ce7f089def53/Scrum%200451b6d41fc443ea8bcce47b70f5a927.md)
+[Tài liệu Scrum](Training%20d8977d88e56d45e0ac08ce7f089def53/Scrum%200451b6d41fc443ea8bcce47b70f5a927.md)
 
 [Danh sách các dự án](Training%20d8977d88e56d45e0ac08ce7f089def53/Danh%20s%20ch%20c%20c%20d%20n%2018a57e18ddca4b809d04c52b56237a39.md)
 
